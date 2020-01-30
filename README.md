@@ -3,7 +3,7 @@
 
 * Histograms
 * Scatterplots
-* Area Maps
+* Area Map (Over Year with Calendar Event Lines)
 * Heatmaps! 
 * Tableau Work  
 * Dashboard Ideas
